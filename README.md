@@ -12,3 +12,7 @@ http://diegorys.es/2016/07/19/ejemplo-de-piano-con-arduino/
 
 http://diegorys.es/2016/01/19/como-comunicar-dos-placas-arduino/
 
+**3. Eco IR:** Eco IR example -> Done
+
+Post pending
+
