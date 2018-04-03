@@ -12,7 +12,18 @@ http://diegorys.es/2016/07/19/ejemplo-de-piano-con-arduino/
 
 http://diegorys.es/2016/01/19/como-comunicar-dos-placas-arduino/
 
-**3. Eco IR:** Eco IR example -> Done
+**3. Eco IR:** Eco IR example. -> Done
 
-Post pending
+*Post pending*
 
+**4. Eight leds:** Eight leds connected to an Arduino board. -> Done
+
+http://diegorys.es/2016/03/08/como-conectar-ocho-leds-a-una-placa-arduino/
+
+**5. 74HC595N eight leds:** Eight leds connected to an Arduino board using a multiplexor 74HC595N. -> Done
+
+http://diegorys.es/2016/03/11/como-conectar-un-multiplexor-a-una-placa-arduino-y-encender-ocho-leds/
+
+**6. Expresions:** Facial expressions with eight leds. -> Done
+
+http://diegorys.es/2016/04/27/ejemplo-de-expresiones-con-arduino/
