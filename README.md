@@ -27,3 +27,15 @@ http://diegorys.es/2016/03/11/como-conectar-un-multiplexor-a-una-placa-arduino-y
 **6. Expresions:** Facial expressions with eight leds. -> Done
 
 http://diegorys.es/2016/04/27/ejemplo-de-expresiones-con-arduino/
+
+**7. Luces del coche fantástico:** -> *Pending*
+
+*Post pending*
+
+**8. Un semáforo:** -> *Pending*
+
+*Post pending*
+
+**9. Serial LCD:** -> *Pending*
+
+*Post pending*
