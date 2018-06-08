@@ -28,7 +28,7 @@ http://diegorys.es/2016/03/11/como-conectar-un-multiplexor-a-una-placa-arduino-y
 
 http://diegorys.es/2016/04/27/ejemplo-de-expresiones-con-arduino/
 
-**7. Luces del coche fantástico:** -> *Pending*
+**7. Coche fantástico:** -> Done
 
 *Post pending*
 
