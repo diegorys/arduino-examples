@@ -39,3 +39,7 @@ http://diegorys.es/2016/04/27/ejemplo-de-expresiones-con-arduino/
 **9. Serial LCD:** -> *Pending*
 
 *Post pending*
+
+**10. RaspberryPi2Arduino:** -> Done
+
+http://diegorys.es/2020/07/09/como-conectar-una-placa-arduino-uno-a-una-raspberry-pi/
